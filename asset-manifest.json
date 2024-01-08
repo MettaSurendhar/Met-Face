@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Met-Face/static/css/main.defd3cef.css",
+    "main.js": "/Met-Face/static/js/main.c5739f79.js",
+    "index.html": "/Met-Face/index.html",
+    "main.defd3cef.css.map": "/Met-Face/static/css/main.defd3cef.css.map",
+    "main.c5739f79.js.map": "/Met-Face/static/js/main.c5739f79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defd3cef.css",
+    "static/js/main.c5739f79.js"
+  ]
+}
