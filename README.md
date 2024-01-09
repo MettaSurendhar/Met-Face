@@ -31,5 +31,7 @@ You may also see any lint errors in the console.
 
 <img height=200px src='https://github.com/MettaSurendhar/Met-Face/blob/main/public/img-1' /> 
 <img height=200px src='https://github.com/MettaSurendhar/Met-Face/blob/main/public/img-2' />
+<img height=200px src='https://github.com/MettaSurendhar/Met-Face/blob/main/public/img-3.png' />
+<img height=200px src='Met-Face/public/img-4.png' />
 
 Expecting more contributors 😇 to contribute this project by adding more pictures like this or adding extra feature by executing this body pose detector app
